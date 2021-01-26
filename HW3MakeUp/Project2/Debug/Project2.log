@@ -1,0 +1,70 @@
+﻿  hw3_makeup.cpp
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(9): error C3646: 'decodedMessage': unknown override specifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(12): error C2146: syntax error: missing ';' before identifier 'decode'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(15): error C2146: syntax error: missing ';' before identifier 'inp'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(15): error C2065: 'inp': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(15): error C2065: 'line': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(16): error C2065: 'ifstream': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(16): error C2146: syntax error: missing ';' before identifier 'read'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(16): error C2065: 'read': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(17): error C2065: 'ofstream': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(17): error C2146: syntax error: missing ';' before identifier 'write'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(17): error C3861: 'write': identifier not found
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(18): error C2065: 'coded': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(18): error C2061: syntax error: identifier 'string'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(19): error C2065: 'decoded': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(19): error C2061: syntax error: identifier 'string'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(22): error C2065: 'cout': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(23): error C2065: 'cin': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(23): error C2065: 'inp': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(24): error C2065: 'read': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(24): error C2228: left of '.open' must have class/struct/union
+  c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(24): note: type is 'unknown-type'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(24): error C2065: 'inp': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(26): error C2065: 'read': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(26): error C2228: left of '.is_open' must have class/struct/union
+  c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(26): note: type is 'unknown-type'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(28): error C2065: 'read': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(28): error C2065: 'line': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(28): error C3861: 'getline': identifier not found
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(29): error C2065: 'coded': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(29): error C2065: 'line': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(29): error C2228: left of '.at' must have class/struct/union
+  c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(29): note: type is 'unknown-type'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(29): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(30): error C2065: 'decoded': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(30): error C2065: 'line': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(30): error C2228: left of '.at' must have class/struct/union
+  c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(30): note: type is 'unknown-type'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(30): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(33): error C2065: 'read': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(33): error C2065: 'line': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(33): error C3861: 'getline': identifier not found
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(34): error C2065: 'line': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(34): error C2228: left of '.at' must have class/struct/union
+  c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(34): note: type is 'unknown-type'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(38): error C2065: 'read': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(38): error C2065: 'line': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(38): error C3861: 'getline': identifier not found
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(40): error C2065: 'line': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(41): error C2039: 'decodedMessage': is not a member of 'messages'
+  c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(6): note: see declaration of 'messages'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(41): error C2065: 'line': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(41): error C2065: 'coded': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(41): error C2065: 'decoded': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(41): error C3861: 'decode': identifier not found
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(45): error C2065: 'write': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(45): error C2065: 'endl': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(47): error C2065: 'endl': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(49): error C2039: 'decodedMessage': is not a member of 'messages'
+  c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(6): note: see declaration of 'messages'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(49): error C2065: 'endl': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(53): error C2065: 'cout': undeclared identifier
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(56): error C2086: 'int string': redefinition
+  c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(12): note: see declaration of 'string'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(56): error C2146: syntax error: missing ';' before identifier 'decode'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(57): error C2143: syntax error: missing ';' before '{'
+c:\users\kevin\source\repos\hw3makeup\project2\hw3_makeup.cpp(57): error C2447: '{': missing function header (old-style formal list?)
